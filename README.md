@@ -1,11 +1,12 @@
 "# simpleping" 
 
 Usage syntax:
-simpleping.bat <ip address or hostname>
+
+simpleping.bat (ip address or hostname)
   
   or
 
-simpleping <ip address or hostname>
+simpleping (ip address or hostname)
   
   
   
